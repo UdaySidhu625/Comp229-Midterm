@@ -1,3 +1,9 @@
+/*
+Name: Uday Sidhu
+Student Id: 301237202
+Project : Midterm
+*/
+
 let User = require('../models/user');
 let passport = require('passport');
 

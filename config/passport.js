@@ -1,3 +1,9 @@
+/*
+Name: Uday Sidhu
+Student Id: 301237202
+Project : Midterm
+*/
+
 const passport = require('passport');
 
 module.exports = function() {

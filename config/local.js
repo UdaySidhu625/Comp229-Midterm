@@ -1,3 +1,9 @@
+/*
+Name: Uday Sidhu
+Student Id: 301237202
+Project : Midterm
+*/
+
 const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 const User = require('../models/user');

@@ -1,3 +1,9 @@
+/*
+Name: Uday Sidhu
+Student Id: 301237202
+Project : Midterm
+*/
+
 let mongoose = require('mongoose');
 let crypto = require('crypto');
 let Schema = mongoose.Schema;
